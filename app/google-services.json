@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1008357466396",
+    "firebase_url": "https://usthjob-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "usthjob",
+    "storage_bucket": "usthjob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008357466396:android:e067a5dc4e5b1b3b575ad9",
+        "android_client_info": {
+          "package_name": "com.usth.job"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBzZcnRDV9BWLE2bMZHHQx-s1xQE8ASM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008357466396:android:82bf9390fd09cad5575ad9",
+        "android_client_info": {
+          "package_name": "com.usth.jobadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBzZcnRDV9BWLE2bMZHHQx-s1xQE8ASM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
